@@ -8,7 +8,7 @@ NLTK (Natural Language Toolkit): NLTK adalah library untuk pemrosesan bahasa ala
 
 Jadi, framework yang digunakan dalam kode tersebut adalah Flask untuk pengembangan aplikasi web dan NLTK untuk pemrosesan bahasa alami (NLP).
 
-Link jurnal : https://drive.google.com/file/d/1QEbvgo-JX2fC0URg9FZStiNngz-YBxAA/view?usp=sharing 
+Link jurnal : https://drive.google.com/file/d/1QEbvgo-JX2fC0URg9FZStiNngz-YBxAA/view?usp=sharing  
 
 Referensi:
 
